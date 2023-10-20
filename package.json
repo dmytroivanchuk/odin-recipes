@@ -1,5 +1,6 @@
 {
   "name": "odin-recipes",
+  "version": "1.1.0",
   "packageManager": "yarn@3.6.4",
   "devDependencies": {
     "standard-version": "^9.5.0"
